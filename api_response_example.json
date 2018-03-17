@@ -1,0 +1,35 @@
+[
+{
+  "startTimestamp" : "2016-01-03 13:55:00",
+  "platform" : "MobileWeb",
+  "product" : "20013509_825",
+  "ctr" : 0.0150 
+},
+{
+  "startTimestamp" : "2016-01-03 14:55:00",
+  "platform" : "MobileWeb",
+  "product" : "20013509_825",
+  "ctr" : 0.0140 
+},
+{
+  "startTimestamp" : "2016-01-03 15:55:00",
+  "platform" : "MobileWeb",
+  "product" : "20013509_825",
+  "ctr" : 0.0130 
+},
+(...)
+{
+  "startTimestamp" : "2016-01-03 13:55:00",
+  "platform" : "iOS",
+  "product" : "20013509_825",
+  "ctr" : 0.0145 
+},
+(...)
+{
+  "startTimestamp" : "2016-01-03 13:55:00",
+  "platform" : "android",
+  "product" : "20013509_827",
+  "ctr" : 0.0200 
+}
+(...)
+]
